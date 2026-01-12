@@ -98,6 +98,3 @@ Model evaluation and tuning
 
 Real-world computer vision workflow
 ```
-
-## 📂 Project Structure
-
